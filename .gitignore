@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/draftteam.data/bin
+/draftteam.data/obj
+/draftteam.webapi/bin
+/draftteam.webapi/obj
+/draftteam.models/bin
+/draftteam.models/obj
+
